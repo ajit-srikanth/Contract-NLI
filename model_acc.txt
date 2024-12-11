@@ -1,0 +1,4 @@
+nli-MiniLM2-L6-H768     39.69%
+nli-deberta-v3-small    43.14%
+nli-deberta-v3-base     43.71%
+nli-deberta-v3-large    46.48%
